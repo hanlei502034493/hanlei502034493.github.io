@@ -4,13 +4,21 @@
   
     
     <entry>
-      <title></title>
-      <link href="2020/09/12/han-gong-zi-de-di-yi-pian-wen-zhang/"/>
-      <url>2020/09/12/han-gong-zi-de-di-yi-pian-wen-zhang/</url>
+      <title>欢迎来到韩先生的博客</title>
+      <link href="2020/09/12/hanlei/"/>
+      <url>2020/09/12/hanlei/</url>
       
-        <content type="html"><![CDATA[<hr><h2 id="title-人生苦短，我用python"><a href="#title-人生苦短，我用python" class="headerlink" title="title:人生苦短，我用python"></a>title:人生苦短，我用python</h2><p>data:2019-01-01 02:22:00</p><p>author:韩磊</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<p>啦啦啦啦，我们一起来学习~</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
+      
+        <tags>
+            
+            <tag> Typora </tag>
+            
+            <tag> Markdown </tag>
+            
+        </tags>
       
     </entry>
     
