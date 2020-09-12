@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>韩磊的博客</title>
+      <title>韩先生的博客</title>
       <link href="2020/09/12/hanlei/"/>
       <url>2020/09/12/hanlei/</url>
       
-        <content type="html"><![CDATA[<hr><p>hello，python</p><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+        <content type="html"><![CDATA[<h3 id="hello，python，hello，world"><a href="#hello，python，hello，world" class="headerlink" title="hello，python，hello，world"></a>hello，python，hello，world</h3><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
       
       
       
